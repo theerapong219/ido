@@ -1,0 +1,16 @@
+/*
+ * Examples
+ */
+.ark-example:before,
+.ark-example:after {
+  content: " ";
+  display: table;
+}
+.ark-example:after {
+  clear: both;
+}
+.ark-example .dropdown > .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 5px;
+}

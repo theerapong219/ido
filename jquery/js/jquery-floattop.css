@@ -1,0 +1,21 @@
+/*==================================================
+*  Author : Tirapant Tongpann
+*  Created Date : 14/6/2554 1:29
+*  Module : Compile
+*  Description : _FUNCTION_
+*  Involve People : -
+*  Last Updated : 14/6/2554 1:29
+==================================================*/
+
+/*==================================================
+  :: _FUNCTION_ ::
+==================================================*/
+#topbar{
+	position:absolute;
+	border: 1px solid black;
+	padding: 2px;
+	background-color: lightyellow;
+	width: 620px;
+	visibility: hidden;
+	z-index: 100;
+}
